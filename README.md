@@ -5,6 +5,8 @@ This project analyses and forecasts daily flight arrivals into London using real
 
 We used an **ARIMA (AutoRegressive Integrated Moving Average)** model to generate a forecast for flight volumes over a 14-day period.
 
+![Forecast Graph](linkedin_cover_final.png)
+
 ## The Data
 We worked with two primary datasets:
 1.  **Flight Data (Sept 2023):** Detailed records of flights, including departure/arrival times and aircraft types.
